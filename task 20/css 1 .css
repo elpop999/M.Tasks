@@ -1,0 +1,33 @@
+*{
+    margin-top: 2px;
+}
+
+#d1{height: 220px;
+
+}
+
+#d2{
+    box-shadow: 1px 1px 3px 1px gray, -1px -1px 3px 1px gray;
+}
+
+#h2{
+    margin: 50px;
+}
+
+#b1{
+   height: 35px;
+   width: 100px;
+}
+
+#i{
+    width: 15px;
+    height: 15px;
+}
+
+#p1{
+    width: 220px;
+}
+
+#p2{
+    width: 200px;
+}
