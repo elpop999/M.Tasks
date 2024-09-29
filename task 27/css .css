@@ -1,0 +1,16 @@
+#i1{
+    width: 100px;
+    height: 100px;
+}
+
+#i2{
+    width: 60px;
+    height: 60px;
+}
+
+#h1{
+    position: absolute;
+    top: 90px;
+    left: 270px;
+    color: white;
+}
